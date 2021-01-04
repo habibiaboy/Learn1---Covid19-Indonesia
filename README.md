@@ -7,7 +7,7 @@ This learning project1 is a learning outcome project about fetch, async and awai
 
 
 ### Built With
-* [Javascript Native]
+* Javascript Native
 * [Bootstrap](https://getbootstrap.com)
 
 
